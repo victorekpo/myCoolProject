@@ -3,4 +3,5 @@ describe('server', () => {
     const myVar = 'Hello World';
     expect(myVar).toEqual('Hello World');
   });
+  // https://jestjs.io/docs/expect
 });
