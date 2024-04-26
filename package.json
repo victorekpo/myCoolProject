@@ -2,7 +2,7 @@
   "name": "my-cool-project",
   "version": "1.0.0",
   "description": "This project is to set up something cool.",
-  "main": "src/index.js",
+  "main": "src/server.js",
   "scripts": {
     "test": "jest",
     "start": "node src/server.js"
