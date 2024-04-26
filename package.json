@@ -5,7 +5,9 @@
   "main": "src/server.js",
   "scripts": {
     "test": "jest",
-    "start": "node src/server.js"
+    "start": "node src/server.js",
+    "lint": "eslint",
+    "lint-fix": "eslint --fix"
   },
   "author": "",
   "license": "ISC",
