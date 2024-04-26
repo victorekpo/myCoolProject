@@ -21,7 +21,7 @@ module.exports = {
     'no-use-before-define': 'error',
     'no-redeclare': 'error',
     'brace-style': 'error',
-    indent: ['error', 2], // Removed quotes for indentation (ESLint v9 prefers arrays)
+    indent: ['error', 2],
     quotes: ['error', 'single'],
     semi: ['error', 'always'],
     radix: 'off',
